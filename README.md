@@ -12,4 +12,4 @@ A patient management app showcasing simple CRUD (Create, Read, Update, Delete) a
 
 4. Open the Package Manager Console (View > Other Windows > Package Manager Console). Run Update-Database.
 
-5. Press F5 or select "Start Debugging" to run the application. The application will be accessible at https://localhost:5001 (or another specified port).
+5. Press F5 or select "Start Debugging" to run the application. The application will be accessible at https://localhost:50805 (or another specified port).
