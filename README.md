@@ -1,3 +1,5 @@
+
+
 A patient management app showcasing simple CRUD (Create, Read, Update, Delete) and functionality, as well as letting a user register, login and store cookies. Built using ASP.NET for the backend logic and jQuery for client-side validations. The project is designed to streamline patient information management in a healthcare setting.
 
 HOW TO RUN
