@@ -1,0 +1,22 @@
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.deps.json
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.dll
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.pdb
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.AssemblyInfo.cs
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.dll
+C:\Users\marye\OneDrive\Documents\A1Patients (5)\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.pdb
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.deps.json
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.runtimeconfig.json
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.runtimeconfig.dev.json
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.dll
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\bin\Debug\netcoreapp2.2\ClassLibrary.pdb
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.AssemblyInfo.cs
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.dll
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.pdb
+C:\Users\marye\Downloads\FatimaFellowship\Final Sponsorship Graphics\A1Patients\ClassLibrary\obj\Debug\netcoreapp2.2\ClassLibrary.genruntimeconfig.cache
